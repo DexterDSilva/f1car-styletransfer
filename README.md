@@ -17,3 +17,6 @@ The dog image has been added to be used as a refrence to make sure hyperparamete
 
 I found the tf1 approach to be quicker and more robust.
 
+Examples:
+![Racing Point Input](https://github.com/DexterDSilva/f1car-styletransfer/blob/master/rp-20hg.jpg) ![Output](https://github.com/DexterDSilva/f1car-styletransfer/blob/master/rp20-pic-1_at_iteration_49.png
+)
