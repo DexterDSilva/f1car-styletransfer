@@ -11,7 +11,9 @@ tf2 tipped off by Francois Chollet's tweet https://twitter.com/fchollet/status/1
 https://colab.research.google.com/drive/18XPdEDVYdr_ODAvW0DrWRCRC25tvTuCE
 
 The names of some of the input output files might have changed slightly. So please be careful.
-The dog image has been added to be used as a refrence to make sure hyperparameters are good.
+The dog image has been added to be used as a reference to make sure hyperparameters are good.
+
+Trained on Google Colab. As a result the '/content/drive/My Drive/ is used to link to the GDrive
 
 I found the tf1 approach to be quicker and more robust.
 
