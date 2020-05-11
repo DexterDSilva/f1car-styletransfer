@@ -1,7 +1,5 @@
 # Style Transfer using Neural Nets
-F1 car touched up by Picasso
 
-## Uses neural nets to create a style transfer or to put it another way
 > How might Picasso have rendered an F1 car?
 
 > Used Tensforflow 1 and 2 on Google colab. The notebooks relate to Google Colab.
