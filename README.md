@@ -2,7 +2,7 @@
 
 > How might Picasso have rendered an F1 car?
 
-> Used Tensforflow 1 and 2 on Google colab. The notebooks relate to Google Colab.
+> Used Keras / Tensforflow 1 and 2 on Google colab. The notebooks relate to Google Colab.
 
 tf1 - from Chapter 8.3 of
 [Francois Chollet's Deep Learning book](https://www.amazon.co.uk/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_1?dchild=1&keywords=francois+chollet+deep&qid=1589190028&sr=8-1)
@@ -15,7 +15,7 @@ The dog image has been added to be used as a reference to make sure hyperparamet
 
 Trained on Google Colab. As a result the '/content/drive/My Drive/ is used to link to the GDrive
 
-I found the tf1 approach to be quicker and more robust.
+I found the tf1 approach with L-BFGS to be quicker and more robust than ttf2 with vanilla SGD.
 
 #Examples:
 
